@@ -8,5 +8,5 @@ Then, run the following command:
 make main
 ```
 The first compilation will take a while<br />
-Finally, run `./zcode` to run the `main.zc` file through `main.cpp`<br />
+Finally, run `./main` to run the `main.zc` file through `main.cpp`<br />
 To change the content of file main.zc, please follow the specification (zcode 1.2.2.pdf)
